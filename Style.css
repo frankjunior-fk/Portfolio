@@ -15,12 +15,14 @@
 }
 
 .intro-img img {
-    max-width: 68%;
+    max-width: 75%;
     height: auto;
-    border-radius: 100rem;
-    border: 0.5rem solid rgba(43, 37, 37, 0.815);
-    margin-top: 100px;
     margin-left: 120px;
+    margin-top: 100px;
+    /*
+    border-radius: 100rem;
+    border: 0.5rem solid rgba(43, 37, 37, 0.815);    
+    */
 }
 
 .top3-content {
@@ -42,12 +44,9 @@
 }
 
 .foto-logo {    
-    max-width: 20%;
+    max-width: 9%;
     height: auto;
     border-radius: 100rem;
     border: 0.1rem solid rgba(43, 37, 37, 0.815);
     margin-top: 0px;
 }
-
-
-
